@@ -11,7 +11,7 @@ python -m venv .venv
 1. source venv
 
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 1. install dependencies
